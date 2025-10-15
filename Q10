@@ -1,0 +1,5 @@
+void main() {
+  String numberStr = "123";
+  int number = int.parse(numberStr);
+  print(number);
+}
