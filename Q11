@@ -1,0 +1,6 @@
+void main() {
+  double bill = 2500;
+  int people = 5;
+  double split = bill / people;
+  print("Each person should pay: $split");
+}
